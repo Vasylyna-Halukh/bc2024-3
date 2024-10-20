@@ -1,0 +1,15 @@
+{
+  "name": "vasylyna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bc2024-3"
+  },
+  "author": "vasylyna",
+  "license": "ISC",
+  "description": ""
+}
